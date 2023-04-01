@@ -23,7 +23,7 @@ p{
     margin-bottom: 20px;
 }
 
-.caixa1,  .caixa2, .caixa3, .caixa4{
+.caixa1,  .caixa2, .caixa3, .caixa4, .caixa5, .caixa6 {
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -46,4 +46,12 @@ p{
 
 .caixa4{
     background-image: url(imagens/imagem4.jpg);
+}
+
+.caixa5{
+    background-image: url(imagens/imagem5.jpg);
+}
+
+.caixa6{
+    background-image: url(imagens/imagem6.jpg);
 }
